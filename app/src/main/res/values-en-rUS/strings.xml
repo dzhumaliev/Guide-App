@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">TazarApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="loading_message">Загрузка...</string>
+
+    <string name="main">Партнеры</string>
+    <string name="top">Рейтинг</string>
+    <string name="tv_save">Сохранить</string>
+
+    <string name="tab_statistics">Компании</string>
+    <string name="tab_revenue_by_the_hour">Пользователи</string>
+
+    //выбор языка
+    <string name="title_language">Select language</string>
+    <string name="rus">Russian</string>
+    <string name="en">English</string>
+
+    //слайдер загрузки
+    <string name="slide_skip">skip</string>
+    <string name="slide_title_description_1">Earn points and exchange for prizes</string>
+    <string name="slide_title_description_2">Easy search for points of delivery and reception of raw materials</string>
+    <string name="slide_title_description_3">Add your own points of delivery and receipt of raw materials</string>
+    <string name="slide_description_1">By donating raw materials, you receive bonus points that can be exchanged for prizes from our partners</string>
+    <string name="slide_description_2">Convenient navigation on the map, allows you to build a route to the place of delivery for waste and garbage processing</string>
+    <string name="slide_description_3">By donating raw materials, you receive bonus points that can be exchanged for prizes from our partners</string>
+
+    //категории
+    //Переработчики
+    <string name="home">Map</string>
+    <string name="history">History</string>
+    <string name="qr">QR-code</string>
+    <string name="user_rating">Rating</string>
+    <string name="setting">Extra</string>
+    //Граждане
+    <string name="partners">Partners</string>
+    <string name="directory">Directory</string>
+    <string name="something">Something</string>
+    <string name="then_that">Then_that</string>
+
+    <string name="text_switch">List</string>
+    <string name="map">Map</string>
+    <string name="search">Search items</string>
+</resources>

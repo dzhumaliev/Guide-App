@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/main"
+        android:enabled="true"
+        android:icon="@drawable/ic_icon_home"
+        android:title="@string/partners" />
+    <item
+        android:id="@+id/time"
+        android:enabled="true"
+        android:icon="@drawable/ic_icon_time"
+        android:title="@string/directory" />
+    <item
+        android:id="@+id/today"
+        android:enabled="true"
+        android:icon="@drawable/ic_icon_today"
+        android:title="@string/something" />
+    <item
+        android:id="@+id/about"
+        android:enabled="true"
+        android:icon="@drawable/ic_icon_weare"
+        android:title="@string/then_that" />
+</menu>

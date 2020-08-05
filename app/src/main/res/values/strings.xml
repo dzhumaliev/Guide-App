@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">TazarApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="loading_message">Загрузка...</string>
+
+    <string name="main">Партнеры</string>
+    <string name="top">Рейтинг</string>
+    <string name="tv_save">Сохранить</string>
+
+    <string name="tab_statistics">Компании</string>
+    <string name="tab_revenue_by_the_hour">Пользователи</string>
+
+    //выбор языка
+    <string name="title_language">Выбрать язык</string>
+    <string name="rus">Русский</string>
+    <string name="en">Английский</string>
+
+    //слайдер загрузки
+    <string name="slide_skip">Пропустить</string>
+    <string name="slide_title_description_1">Зарабатывайте баллы и обменивайте на призы</string>
+    <string name="slide_title_description_2">Легкий поиск пунктов сдачи и приема сырья</string>
+    <string name="slide_title_description_3">Добавляйте свои пункты сдачи и приема сырья</string>
+    <string name="slide_description_1">Сдавая сырье, вы получаете бонусные баллы, которые можно обменять на призы от наших партнеров</string>
+    <string name="slide_description_2">Удобная навигация на карте, позволяет выстраивать маршрут до места сдачи на переработку отходов и мусора</string>
+    <string name="slide_description_3">Сдавая сырье, вы получаете бонусные баллы, которые можно обменять на призы от наших партнеров</string>
+
+    //категории
+    //Переработчики
+    <string name="home">Карта</string>
+    <string name="history">История</string>
+    <string name="qr">QR-Код</string>
+    <string name="user_rating">Рейтинг</string>
+    <string name="setting">Еще</string>
+    //Граждане
+    <string name="partners">Партнеры</string>
+    <string name="directory">Справочник</string>
+    <string name="something">Что то</string>
+    <string name="then_that">То та</string>
+
+    <string name="map">Карта</string>
+    <string name="text_switch">Списком</string>
+    <string name="search">Поиск пунктов</string>
+</resources>
